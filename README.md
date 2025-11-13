@@ -11,5 +11,5 @@
 - Git e GitHub
 
 ## 📫 Como me encontrar:
-- ✉️ Email: elaniiotomazz11@exemplo.com
+- ✉️ Email: elaniiotomazz11@gmail.com
 - 💼 LinkedIn: [Elanio Tomaz](https://www.linkedin.com/in/elanio-tomaz/)
