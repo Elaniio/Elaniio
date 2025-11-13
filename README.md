@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Elanio!
 
-<!--
-**Elaniio/Elaniio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante e desenvolvedor iniciante em JavaScript  
+🎯 Atualmente aprendendo Git, GitHub e programação web  
+🚀 Interessado em criar projetos práticos e evoluir no desenvolvimento
 
-Here are some ideas to get you started:
+## 🛠️ estou aprendendo:
+- HTML
+- CSS
+- JavaScript
+- Git e GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Como me encontrar:
+- ✉️ Email: elaniiotomazz11@exemplo.com
+- 💼 LinkedIn: [Elanio Tomaz](https://www.linkedin.com/in/elanio-tomaz/)
